@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
+  "name": "Borcus",
+  "website": "https://learncrypto.wtf",
+  "description": "Eigenlayer Node",
   "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "twitter": "@borcuscrypto"
 }
